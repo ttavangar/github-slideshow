@@ -2,4 +2,4 @@
 layout: slide
 title: "welcome to our second slide!"
 ---
-"MY NAME IS TALAYEH TAVANGAR"
+" Today is a good day for a good dat"
